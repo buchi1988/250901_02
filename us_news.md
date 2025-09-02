@@ -1,0 +1,17 @@
+# アメリカ最新ニュース
+
+- [米国内で「億万長者より労働者」を掲げた労働の日集会が多数開催](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmptcU1FTjFYVnE3U3p1T0FfeENuM0hqU1FKQmRhb1Z6N3U0aDRMZC1HT2hGYnJENFV2WW5SNDhlOGM1YnhfWW5DNmh5MGNTcURnQUlaQ0Q3bWM3NHZ3UjgxLWRMVURyamtTMkEwZmQ1N01pLVdyTk5GSHRnRW9kVGVRbi1rZU1BZ0gtZm1oVW13M2ZEWVE?oc=5)
+  - 労働者を支援し富裕層への批判を訴える集会が全米で開かれたと報じられています。（The Guardian）
+
+- [米軍がカリブ海でベネズエラを攻撃した場合「武装共和国」を宣言するとマドゥロ大統領が警告](https://news.google.com/rss/articles/CBMidEFVX3lxTE1ha0ttZDlaU3dYVWJaS0Q0c1NfN21Ra0QtOFFCaTZmZ0hSekgzVmh2aXl4bHdNaTRrMmpuUXcxZlBpX3VjM19xOXluR2h3MjA2V21YbU1ZSTNmMm5IbnMyZUFWNWhDMXdJZnd6Wjd5ZzB1TWgx0gF6QVVfeXFMUHhrbk1oX2RCd3lldi1ZQW0zMlYxaXVxcW5Sc2pYR2NwbjBSYXgtbWJkVG1JT3dMYUotbVhNblI0WURkMTdTa3IyOVBZRHh3LWE4N096QUtTYUlJczdlUldraU9INjlkLUlRVktWWm5nUnNfbFNJYXVoR0E?oc=5)
+  - ベネズエラのマドゥロ大統領は、米軍の脅威に対抗する姿勢を示しました。（CBS News）
+
+- [トランプ氏、ジュリアーニ氏に大統領自由勲章を授与すると表明](https://news.google.com/rss/articles/CBMif0FVX3lxTE0xLTZwZG9xRnIzQURiakQxa3gwaTlEbEtVR2tHRUxtWlNTN19hZm5XTTFmbGtwQ3k1VC1ES0tzc0lKZjhoRWIyYlJ5VGtYdlZ3elR0SGt6MlM0ZTA3dHdNSUJhQTNxV3VwX0hXRW84V1F0Z2NIVUY5dzFKYUtodUU?oc=5)
+  - 元ニューヨーク市長ルディ・ジュリアーニ氏に最高位の民間勲章を授けるとトランプ前大統領が発言しました。（Axios）
+
+- [トランプ氏、CDCを「引き裂いた」としてCOVID-19ワクチンの効果に疑問を再び提起](https://news.google.com/rss/articles/CBMickFVX3lxTFBUZmE5U0loMmNBUmt5TWdqS2E2b2Y1TVZsQVM1MTNkdFRtSkJqQ3JWMkdPOVZ3TWtKTGY0ODBJWDRSelFNNlNRU1lCdVAzeHlzY3VuS0gtclRtdzI4a29kV0tGcVpKeXFqWmZXNFBYdEo3Zw?oc=5)
+  - CDCの信頼性を損なったとして、COVID-19ワクチンの有効性を改めて疑問視しました。（CNN）
+
+- [民主党ベテランのナドラー下院議員、来年の再選出馬を断念](https://news.google.com/rss/articles/CBMihwFBVV95cUxPYklpVVJ5b3lzcS1NY1VjajdvQW44dGxJNUkxUEtRMldJOWpJdGJyZWh0dHZKTkQyRXZhbTUzdjlGdFFMcFdQNHJXRHY5YzhkZVlmaS0teWRyZ1RCUkxxVldXRU1xWlJfdUNzdkU0cU00WWM0bi1UZ2JKZXZmQVFVajRxRm9UNUk?oc=5)
+  - 30年以上にわたり議会で影響力を持ってきたジェリー・ナドラー氏が引退を表明しました。（The New York Times）
+
